@@ -1,6 +1,6 @@
 name: Tests    # Action Name
 
-# specify Events that trigger this Action
+# specify Events that trigger this Action.
 on:
   - push
 
